@@ -22,7 +22,7 @@ jobs:
 
       - uses: actions/setup-node@v1
         with:
-          node-version: 20.0.0
+          node-version: 24.22.1
           cache: pnpm
           registry-url: https://registry.npmjs.org/
 
